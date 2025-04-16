@@ -30,8 +30,8 @@ As applied phenomenology, MR optimizes a causal influence metric, showing how pa
 
 
 
-This is part of an ongoing project at the intersection of quantum foundations, cognition, and emergent geometry. More to come.
-
-
-
 As applied phenomenology, MR optimizes a causal influence metric, showing how parallel quantum processing yields sequential processing, leading to emergent perception of time. Asymmetric information flow connects to spacetime and gravity, interpreting mass as causal influence, and the framework recovers the Born rule in the limit, aligning entropy and probability gradients. The work includes theoretical convergence proofs, Petz recovery analysis, and numerical simulations.
+
+
+
+This is part of an ongoing project at the intersection of quantum foundations, cognition, and emergent geometry. More to come.
