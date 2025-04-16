@@ -5,6 +5,8 @@ MeasureReinforcement. CC BY 4.0
 
 
 Measure Reinforcement (MR): A Relational Quantum Framework for Emergent Causality
+
+
 Core Contribution:
 We introduce Measure Reinforcement Influence (MRI), a novel causal measure defined by:
 
